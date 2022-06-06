@@ -1,2 +1,0 @@
-Ulan
-test
